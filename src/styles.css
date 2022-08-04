@@ -5,7 +5,7 @@
 }
 
    @media (min-width: 576px) {
-   .d-sm--block {
+   .d-sm-block {
        display: none !important;
    };}
   @media (min-width: 1200px){
